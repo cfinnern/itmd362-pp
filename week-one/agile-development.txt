@@ -90,6 +90,21 @@ already.
 
 5. Copy below the output from `node -v`:
 
+v4.2.4
 
 6. Copy below all of the output from `npm install http-server -g`:
 
+C:\Users\craig>npm install http-server -g
+C:\Users\craig\AppData\Roaming\npm\hs -> C:\Users\craig\AppData\Roaming\npm\node_modules\http-server\bin\http-server
+C:\Users\craig\AppData\Roaming\npm\http-server -> C:\Users\craig\AppData\Roaming\npm\node_modules\http-server\bin\http-server
+http-server@0.8.5 C:\Users\craig\AppData\Roaming\npm\node_modules\http-server
+├── corser@2.0.0
+├── opener@1.4.1
+├── colors@1.0.3
+├── http-proxy@1.12.0 (eventemitter3@1.1.1, requires-port@0.0.1)
+├── optimist@0.6.1 (wordwrap@0.0.3, minimist@0.0.10)
+├── union@0.4.4 (qs@2.3.3)
+├── ecstatic@0.7.6 (url-join@0.0.1, he@0.5.0, mime@1.3.4, minimist@1.2.0)
+└── portfinder@0.4.0 (async@0.9.0, mkdirp@0.5.1)
+
+C:\Users\craig>
