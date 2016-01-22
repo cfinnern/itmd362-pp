@@ -28,6 +28,8 @@ Once you’ve cleaned up your desktop, use Google or another search engine to le
 
 2. Clean up your home directory.
 
+Done. Need to figure out how to post results to Git...
+
 No deliverable for this (I don’t want to see your files), but on the honors system, take this opportunity to clean up your home directory. File things away, clean things up. Know where your stuff is. Doing this makes it super-easy to backup all of your files, which you should also be doing. It also means you won’t have to think twice about where to start your next project or where to return to when you’re back at work, because you’ll have a ~/Projects directory or something like it.
 
 3. Set up virtual desktops.
