@@ -26,11 +26,16 @@ Fine-grained, atomic commits to your Production Problems repository that include
 2) an explanation of three different points of guidance from your chosen guidelines (point to the
    specific URL where the guidance can be found) that you implemented in your sketch, written below:
 
-* HCI Guidline One (URL):
-* How you implemented it in your sketch:
+* HCI Guidline One (URL): https://www.google.com/design/spec/patterns/navigation-drawer.html
+* How you implemented it in your sketch: i made a sidebar to be able to access all the other features of my.iit.edu 
+I feel like this would hide the things people dont use as often as the log in, Which is behind the sidebar.
+this in turn would keep my.iit.edu as simple as possible
 
-* HCI Guidline Two (URL):
-* How you implemented it in your sketch:
+* HCI Guidline Two (URL): https://www.google.com/design/spec/animation/authentic-motion.html#authentic-motion-mass-weight
+* How you implemented it in your sketch: the sidebar would slide out with asymmetric motion. this helps the anmatiion seem less
+ridged and more fluid by having the side bar accelerate and decelerate as it goes in and out
 
-* HCI Guidline Three (URL):
-* How you implemented it in your sketch:
+* HCI Guidline Three (URL): https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/Principles.html#//apple_ref/doc/uid/TP40006556-CH4-SW1
+* How you implemented it in your sketch: i implimented this into my sketch by having the button change colors when clicked
+this lets the user know wwith a visual, that they did in fact click the button. also, i made the text boxes have rounded
+edges giving it a more freindly feel than ssharp edges
