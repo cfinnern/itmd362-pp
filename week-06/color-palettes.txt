@@ -15,20 +15,36 @@ Fine-grained, atomic commits to your Production Problems repository that include
 
 * A monochromatic palette for a website that creates high-end, custom-made gaming laptops.
 
-Filename:
-Explanation of your color choices:
+Filename:gaming.jpg
+Explanation of your color choices:I decided to go with a red because when I think if a gaming laptop I think if red. 
+A lot of gaming laptops I have had experience with are usually green or red and I personally prefer the red. 
+I also chose to make most of the colors fairly dark, again because that’s what I think of when I think of gaming. 
+Also, I feel like most gamers are not in a fully lit room, but instead, a pretty dark one.
+
 
 * A shaded color palette for a website that sells natural and organic foods.
 
-Filename:
-Explanation of your color choices:
+Filename:organic.jpg
+Explanation of your color choices:I decided to go with a lot of green because when you think organic food, 
+you think green. I also went towards the blue side of the green because blue is associated with water and nature, 
+again, giving it the organic feel I want. I also went fairly light with the colors to draw attention to the products.
+
 
 * A complementary palette for a banking website.
 
-Filename:
-Explanation of your color choices:
+Filename:bank.jpg
+Explanation of your color choices:I obviously went for a green starting color. I started near the blue green side, 
+however, the complementary color to that was kind of red, which is what I wanted to stay away from. This is because 
+red is associated with losing money. So I went toward the yellow side of it, giving the complementary color of purple. 
+Finally, I played around with the sliders until I got light colors as because I wanted them to seem very happy.
+
 
 * A triadic palette for a website that offers games for children.
 
-Filename:
-Explanation of your color choices:
+Filename:children.jpg
+Explanation of your color choices:For this last one, I assumed that the kids in this were very young. 
+So, I went very light and neutral colors. I didn’t want any colors to be too intense and wanted them all to be 
+soothing. I also tried to get very basic colors. Green, blue, dark green, red, and pink. I wanted the colors 
+to be distinguishable from one another but also have different shades of the colors for kids to name or at 
+least to draw some attention.
+
