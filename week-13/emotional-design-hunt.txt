@@ -1,4 +1,4 @@
-# Production Problem 8: Emotional Design Hunt
+﻿# Production Problem 8: Emotional Design Hunt
 
 ## The Problem
 
@@ -12,14 +12,21 @@ A. Photograph of the object (place in the week-12/ directory and commit).
 
 B. Emotional design levels of your object:
 
-* Visceral:
+* Visceral:I love the way the watch look. Sure there are other watches that can do the exact same thing,
+and sure there were cheaper watches, but I just loved how this one worked. Most of the smart watched,
+especially at the time when I bought it, were square. But this was different.
 
-* Behavioral:
+* Behavioral:I wear my watch every day. I love getting all of my notifications without having to pull out
+my phone or even having to keep my phone on me. I can use it at work, where I’m not allowed to have
+my phone on me; or in the shower to change music to keep me singing.
 
-* Reflective:
+* Reflective:I always get the same questions about the watch: is that an apple watch? No. can you text
+from it? Yes. But when people are honestly interested in it, I’ll tell them and show them everything it can
+do. From navigation to voice commands. I love showing it off and even giving suggestions to other smart
+watches that might fit them if they are interested.
 
 C.  Emotional design qualities of the object that might be useful for Project 3/MyIIT redesign:
 
-1.
-2.
-3.
+1.Behavioral: We could try to make the website as simple as possible. To the point where the user wont even have to think twice about what they are doing
+2.Visceral: make the site pretty. maybe a nice skyline photo on the login
+3.Visceral: But not too many photos where it becomes overwelming and distracting to the user. This still is a portal for a school site
