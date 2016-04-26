@@ -1,0 +1,17 @@
+/* CSS Reset */
+clear: none;
+clear: left;
+clear: right;
+clear: both;
+clear: inline-start;
+clear: inline-end;
+clear: inherit;
+
+ <link href='https://fonts.googleapis.com/css?family=Oxygen' rel='stylesheet' type='text/css'>
+ 
+label {
+	font-family: 'Oxygen', sans-serif;
+	font-size: 150%;
+}
+ 
+ 
