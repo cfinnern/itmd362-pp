@@ -8,18 +8,18 @@ Usability checklists are typical, and sometimes mindless, tools/magic tricks use
 
 * URLs for the usability checklists you've found:
 
-1.
-2.
+1.https://web.wsu.edu/wp-content/uploads/sites/7/2015/08/25-point-usability-checklist-final.pdf
+2. http://www.studyweb.com/test-your-website-a-57-point-checklist-for-maximum-usability/
 
 * Your own condensed, ten-item must-have usability checklist:
 
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+1.Calls to action (e.g. register, apply, submit, add to basket) are clear, well labelled, and appear clickable
+2. Simplicity: give the user what they are looking for
+3. Your site shouldn't look like an advertisement 
+4. All major areas of the site are accessible from the home page
+5. The sites purpose is easily understood
+6. No unnecessary animations
+7. Logo. Make sure your visitors know what site they are on
+8. Make sure your oage loads quickly
+9. Revise. Make sure you do a spell check
+10. Legibility, make sure the font size is right and the colors are not too distracting.
